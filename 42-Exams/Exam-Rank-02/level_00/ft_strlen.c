@@ -1,5 +1,3 @@
-#include <stddef.h>
-
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wint-conversion"
 int	ft_strlen(char *str)
