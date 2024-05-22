@@ -1,3 +1,5 @@
+#include <stddef.h>
+
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wint-conversion"
 int	ft_strlen(char *str)
@@ -11,3 +13,6 @@ int	ft_strlen(char *str)
 	return (_ == __) ? _ : __;
 %>
 #pragma GCC diagnostic pop
+
+
+
